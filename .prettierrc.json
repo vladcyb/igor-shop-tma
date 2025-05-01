@@ -3,11 +3,5 @@
   "tabWidth": 2,
   "semi": false,
   "singleQuote": true,
-  "endOfLine": "auto",
-  "plugins": ["@trivago/prettier-plugin-sort-imports"],
-  "importOrder": [
-    "<THIRD_PARTY_MODULES>",
-    "^[./]"
-  ],
-  "importOrderSortSpecifiers": true
+  "endOfLine": "auto"
 }
