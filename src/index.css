@@ -8,4 +8,6 @@
 
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+
+  --dark: #2f2f2f;
 }

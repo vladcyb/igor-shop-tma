@@ -6,7 +6,7 @@ import styles from './app.module.scss'
 
 export const App = () => (
   <div className={styles.App}>
-    <Grid>
+    <Grid className={styles.App__products}>
       {products.map((product) => (
         <Product key={product.id} title={product.title} imgSrc={product.img} />
       ))}
